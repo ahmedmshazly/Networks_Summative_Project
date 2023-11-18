@@ -52,7 +52,7 @@ Special thanks to the course instructors and team members for their guidance and
 ---
 
 ### Contact Information
-For more information or queries, please contact (Ahmed Mohamed)[ahmdmshazly@gmail.com].
+For more information or queries, please contact [Ahmed Mohamed](ahmdmshazly@gmail.com).
 
 ---
 
